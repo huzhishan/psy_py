@@ -10,9 +10,10 @@
 ### 基本编程结构
 
 ### 指导语：
-'''python
+```python
+#test again
 from psychopy import core
-'''
+```
 
 
 
