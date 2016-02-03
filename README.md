@@ -9,10 +9,10 @@
 ### 基本编程结构
 
 ### 指导语：
-'''python
+```python
 #let's have a try
 from psychopy import core
-'''
+```
 
 ## 心理学统计
 ### 描述统计
