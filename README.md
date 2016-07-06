@@ -31,7 +31,7 @@ from psychopy import core
 ### 多因素方差分析（ANOVA）
 ### 重复测量方差分析（repeated-measure-ANOVA）
 
-
+![hehe](try/cardiac.png)
 
 
 
