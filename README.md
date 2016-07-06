@@ -1,7 +1,6 @@
 
 # code 
 ## 目录
-[TOC]
 ## 前言
 本书主要记录了我在使用python进行心理学实验编程以及数据分析过程中的心得体会，以流水账为主，期望之后能够进行更为细致的整理。
 
@@ -11,6 +10,7 @@
 
 ### 指导语：
 ```python
+<<<<<<< HEAD
 #test again
 from psychopy import core
 ```
@@ -18,6 +18,11 @@ from psychopy import core
 
 
 
+=======
+#let's have a try
+from psychopy import core
+```
+>>>>>>> master
 
 ## 心理学统计
 ### 描述统计
@@ -31,10 +36,13 @@ from psychopy import core
 ### 多因素方差分析（ANOVA）
 ### 重复测量方差分析（repeated-measure-ANOVA）
 
+
+
+
+
+
+
+
+```
+
 ![hehe](try/cardiac.png)
-
-
-
-
-
-
